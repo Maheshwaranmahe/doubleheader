@@ -9,7 +9,7 @@ header{
     background-color: black;
     position: absolute;
     height: 5%;
-    width: 99%;
+    width: 100%;
 }
 .span{
     color: white;
@@ -39,7 +39,7 @@ i{
     position: absolute;
     top: 5%;
     height: 11%;
-    width: 99%;
+    width: 100%;
     
 }
 .head{
@@ -65,19 +65,6 @@ i{
 .main a:hover {
     background-color: black;
 }
-.dropdown {
-    position: relative;
-    display: inline-block;
-  }
-  
-  .dropdown-content {
-    display: none;
-    position: absolute;
-  }
-  
-  .dropdown:hover .dropdown-content {
-    display: block;
-  }
   .header a.active {
     background-color: black;
     color: white;
